@@ -13,9 +13,9 @@ Welcome to the Ultra Beast Mode Attack Tool, Version 666 - HIDDEN GHOST Edition.
 1. Clone the repository:
 
    ```bash
-      git clone https://github.com/hiddenghost9737/DDOS-GHOST-MODE.git</br>
-      cd DDOS-GHOST-MODE</br>
-      gcc devil.c -o devil -levent</br>
-      ./devil</br>
+       1] git clone https://github.com/hiddenghost9737/DDOS-GHOST-MODE.git
+       2] cd DDOS-GHOST-MODE
+       3] gcc devil.c -o devil -levent
+       4] ./devil
     
     
