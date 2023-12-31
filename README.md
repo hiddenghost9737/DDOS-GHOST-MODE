@@ -19,5 +19,7 @@ Welcome to the Ultra Beast Mode Attack Tool, Version 666 - HIDDEN GHOST Edition.
        2] cd DDOS-GHOST-MODE
        3] gcc devil.c -o devil -levent
        4] ./devil
+
+
     
-    
+![My Remote Image]https://i.postimg.cc/kXwzyZwP/Screenshot-20231231-180047.jpg
