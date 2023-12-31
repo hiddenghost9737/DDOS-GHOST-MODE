@@ -1,3 +1,5 @@
+# DDOS GHOST MODE
+
 Welcome to the Ultra Beast Mode Attack Tool, Version 666 - HIDDEN GHOST Edition. Crafted in the shadows, this tool empowers you to unleash devastating attacks with an insidious touch. Beware, for it dances with shadows, leaving chaos in its wake.
 
 ## Features
