@@ -23,5 +23,6 @@ Welcome to the Ultra Beast Mode Attack Tool, Version 666 - HIDDEN GHOST Edition.
 
     
 ![My Remote Image](https://i.postimg.cc/kXwzyZwP/Screenshot-20231231-180047.jpg)
+![My Remote Image](https://i.postimg.cc/XYWVhT6H/Screenshot-20231231-181238.jpg)
 ![My Remote Image](https://i.postimg.cc/d1BpSxvC/Screenshot-20231231-180749.jpg)
 ![My Remote Image](https://i.postimg.cc/Qxyty6xv/Screenshot-20231231-181049-01.jpg)
